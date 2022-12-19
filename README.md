@@ -5,4 +5,4 @@ A simple file
 ##heading 2
 
 on a branch
- added updates on new branch"
+ this is bound to cause trouble
